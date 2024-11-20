@@ -1,9 +1,11 @@
 <div align="center">
+  <div style="background-color: #fff; border-radius: 0.5rem">
   <a href="https://github.com/fransjesky/sinclair">
-    <img src="resources/harvard.png" alt="harvard" width="256" height="70">
+    <img src="resources/harvard.png" alt="harvard" width="600" height="165">
   </a>
-  <h1>This Is CS50</h1>
+  </div>
   <p align="center">
+  <h1>This Is CS50</h1>
   Welcome to <strong>Jesky's Archive</strong>.
     <br />
     <a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science">Harvard CS50 - Introduction to Computer Science</a>
@@ -16,7 +18,7 @@
 
 ### What is this repository about?
 
-This repository contains my archived tasks from various CS50 classes offered by Harvard University in 2024 at edX, including CS50, CS50P, CS50AI, and others.
+This repository contains my archived solutions to tasks from various CS50 courses offered by Harvard University in 2024 on edX, including CS50, CS50P, CS50AI, and others.
 
 ![C Language](https://img.shields.io/badge/CLang-logo?style=flat&logo=c&logoColor=white&labelColor=grey&color=%233178C6)
 ![Python](https://img.shields.io/badge/Python-logo?style=flat&logo=python&logoColor=white&labelColor=grey&color=%23ffe873)
@@ -32,4 +34,4 @@ This repository was created solely for educational purposes, and cheating or sim
 
 As part of my learning journey, my solutions are far from perfect. They may not be the most efficient, the most readable, or the best, but they reflect my progress and efforts.
 
-Please note that all problem sets included in this archive are the property of Harvard University.
+Please note that all problem sets included in this archive are the property of <strong>Harvard University</strong>.
