@@ -1,9 +1,11 @@
-# task:
-# create a simple program with these variables:
-# name, job, salary, and netWorth
-#
-# output:
-# "My name is Mike, and I'm a Programmer. My monthly net income is $12,200"
+'''
+task:
+create a simple program with these variables:
+name, job, salary, and netWorth
+
+output:
+"My name is Mike, and I'm a Programmer. My monthly net income is $12,200"
+'''
 
 def main():
   name: str = input("What's your name? ")
