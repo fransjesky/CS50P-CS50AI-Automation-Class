@@ -1,12 +1,10 @@
 <div align="center">
-  <div style="background-color: #fff; border-radius: 0.5rem">
   <a href="https://github.com/fransjesky/sinclair">
-    <img src="resources/harvard.png" alt="harvard" width="600" height="165">
+    <img src="resources/harvard.svg" alt="harvard" width="600" height="165">
   </a>
-  </div>
-  <p align="center">
   <h1>This Is CS50</h1>
-  Welcome to <strong>Jesky's Archive</strong>.
+  <p align="center">
+    Welcome to <strong>Jesky's Archive</strong>.
     <br />
     <a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science">Harvard CS50 - Introduction to Computer Science</a>
   </p>
@@ -14,6 +12,7 @@
 [![Author](https://img.shields.io/badge/author-Frans%20Jesky-lightgrey.svg?style=flat&color=%23673ab7)](https://github.com/fransjesky)
 
 🚧 <strong>THIS REPOSITORY IS NO LONGER MAINTAINED AFTER 2024</strong> 🚧
+
 </div>
 
 ### What is this repository about?
@@ -34,4 +33,4 @@ This repository was created solely for educational purposes, and cheating or sim
 
 As part of my learning journey, my solutions are far from perfect. They may not be the most efficient, the most readable, or the best, but they reflect my progress and efforts.
 
-Please note that all problem sets included in this archive are the property of <strong>Harvard University</strong>.
+Please note that all problem sets included in this archive are the property of <strong>Harvard University</strong>
