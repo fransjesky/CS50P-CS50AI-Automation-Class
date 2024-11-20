@@ -2,7 +2,7 @@
   <a href="https://github.com/fransjesky/sinclair">
     <img src="resources/harvard.svg" alt="harvard" width="600" height="165">
   </a>
-  <h1>This Is CS50</h1>
+  <h1>This is CS50.</h1>
   <p align="center">
     Welcome to <strong>Jesky's Archive</strong>.
     <br />
